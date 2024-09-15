@@ -1,5 +1,5 @@
 =====================================
-wireless-tools Authors
+bssid-tools Authors
 =====================================
 
 * Pellegrino Prevete <pellegrinoprevete@gmail.com>
